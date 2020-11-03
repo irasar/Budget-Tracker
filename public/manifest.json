@@ -1,7 +1,7 @@
 {
     "name": "Budget Tracker",
     "short_name": "BudgetTracker",
-    "description": "A simple budget tracker for when youre traveling",
+    "description": "A simple budget tracker for when you are traveling",
     "display": "standalone",
     "scope": "/app/",
     "start_url": "./index.html",
