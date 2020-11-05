@@ -20,6 +20,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
+* [Tests](#tests)
 
 
 ## Installation
