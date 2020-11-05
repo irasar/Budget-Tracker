@@ -5,8 +5,8 @@
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 ## User Story
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+AS AN avid traveller<br>
+I WANT to be able to track my withdrawals and deposits with or without a data/internet connection<br>
 SO THAT my account balance is accurate when I am traveling
 
 ## Business Context
